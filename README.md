@@ -1,10 +1,8 @@
 ## Hi, I'm Geethma Samarasinghe!👋
 
-<!--
-**GeethmaSamarasinghe/GeethmaSamarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🎓 I'm an Information Systems undergraduate. 
-- 🌱 I love bringing ideas to life through coding and exploring the art of animation along with creative projects.
+
+- I'm an Information Systems undergraduate with a passion for coding, animation, and creative projects.I love exploring new technologies and bringing ideas to life through both technical and artistic work.
+- This GitHub is where I share my projects, experiments, and learning journey. 🍃
 
