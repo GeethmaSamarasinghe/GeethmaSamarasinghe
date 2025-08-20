@@ -11,8 +11,7 @@
  This GitHub is where I share my projects, experiments, and learning journey 🍃.
 
  <br>
-
- <h4>Skills</h4>
+ <h3>Skills</h3>
 
  | Category        | Skills        |
 |-----------------|---------------|
