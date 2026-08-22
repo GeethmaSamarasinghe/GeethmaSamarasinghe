@@ -26,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GeethmaSamarasinghe&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeethmaSamarasinghe&layout=compact&theme=radical" width="48%" />
 </p>
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeethmaSamarasinghe&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=GeethmaSamarasinghe&theme=radical" width="48%" />
 </p>
-  
